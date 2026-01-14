@@ -34,9 +34,8 @@ API REST para cadastro de ninjas e atribuição de missões, desenvolvida com fo
 ```
 ninja-cadastro-api
 │
-├── controller
-├── service
-├── model
+├── Ninjas
+├── Missões
 └── CadastroDeNinjasApiApplication.java
 ```
 
