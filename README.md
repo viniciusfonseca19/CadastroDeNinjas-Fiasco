@@ -159,14 +159,3 @@ Desenvolvido por **Vini**
 * Paginação e filtros
 * Documentação com Swagger
 
----
-
-Se quiser, posso gerar também:
-
-✅ Versão em inglês
-✅ README com badges
-✅ README com exemplos JSON
-✅ Documentação Swagger
-✅ Diagrama de entidades
-
-Só pedir 😄
